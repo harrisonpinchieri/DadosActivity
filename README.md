@@ -1,3 +1,5 @@
 # DadosActivity
 
-Adroid application that sends the data to another activity
+Aplicativo Android que envia os dados de uma activity para outra.
+
+Android application that sends data from one activity to another.
